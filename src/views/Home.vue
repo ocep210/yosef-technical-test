@@ -22,7 +22,7 @@
                     </tr>
                     <tr>
                         <th scope="col" class="text-right w-50">Address</th>
-                        <td class="text-left">Taman Kopo Indah I</td>
+                        <td class="text-left">Taman Kopo Indah I, Bandung</td>
                     </tr>
                     <tr>
                         <th scope="col" class="text-right w-50">Education</th>

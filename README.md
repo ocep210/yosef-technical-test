@@ -1,24 +1,8 @@
 # yosef-dev-test
 
-## Project setup
+## Message
 ```
-npm install
+Ini hasil dari tugas yang telah saya berikan.
+Beberapa fungsi API telah direspon berhasil namun tidak berhasil update tampilan.
+Fungsi API Delete dianggap masuk respon sukses namun error 404 pada bagian fetch dalam Console Browser.
 ```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
